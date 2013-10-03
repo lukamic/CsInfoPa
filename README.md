@@ -14,7 +14,7 @@
 #### 1. Direttamente online:
 #### Cioè poter prendere le risorse vi basterà andare all'[indirizzo principale del repository](http://github.com/DLion/CsInfoPa) e navigare all'interno delle cartelle, selezionare il file che v'interessa e dopo cliccare su "raw" per poterlo scaricare.
 #### 2. Clonando il repository:
-#### Potrete scaricare l'intero repo sul vostro pc con il semplice comando `git clone http://github.com/DLion/CsInfoPa` dal vostro terminale o se usate un programma di git apposito vi basterà clonare il repo all'interno del vostro pc.
+#### Potrete scaricare l'intero repo sul vostro pc con il semplice comando ``` git clone https://github.com/dlion/CsInfoPa.git ``` dal vostro terminale o se usate un programma di git apposito vi basterà clonare il repo all'interno del vostro pc.
 
 ## Contribuire 
 #### Contribuire è la parte più importante di questo progetto, come può andare avanti senza il vostro aiuto ? CONTRIBUITE!
