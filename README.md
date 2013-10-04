@@ -32,3 +32,4 @@
 ## Ringraziamenti
 #### Inserirò qui gli studenti/utenti che aiuteranno il progetto in questione.
 * [Domenico Leone Luciani](http://github.com/DLion) - *Autore del progetto*
+* [Gianluca La Manna](http://github.com/Hanslukas)
